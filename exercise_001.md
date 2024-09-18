@@ -1,3 +1,6 @@
+Here’s a beginner-level Python exercise formatted in Markdown for you. You can copy it directly or save it as a `.md` file:
+
+```markdown
 <!--
 ID: exercise-001
 Tags: [python, beginner, programming, tutorial]
@@ -48,3 +51,40 @@ In this exercise, you will:
 
    # Display a greeting message
    print(f"Hello, {name}! You are {age} years old.")
+   ```
+
+3. **Save Your File**
+
+   Save your changes in the text editor.
+
+4. **Run Your Script**
+
+   Open your command line or terminal. Navigate to the directory where you saved `first_program.py`. Run the script by typing:
+
+   ```bash
+   python first_program.py
+   ```
+
+   Follow the prompts to enter your name and age. The script will greet you with a message that includes the information you provided.
+
+5. **Modify and Experiment**
+
+   Feel free to modify the script to experiment with different messages or questions. For example, try asking for the user's favorite color or hobby and display it in the output.
+
+## What You've Learned
+
+- **Variables**: Storing and using data (name and age).
+- **Data Types**: Understanding how user input is treated as strings.
+- **User Input**: Using the `input()` function to get information from the user.
+- **Output**: Displaying information using the `print()` function.
+
+## Next Steps
+
+As you become more comfortable with Python, you can explore more advanced topics such as loops, conditionals, and functions. Keep practicing and experimenting to enhance your skills!
+
+---
+
+Great job on completing this exercise! Keep up the good work and happy coding!
+```
+
+Feel free to modify or expand on this exercise based on your needs.
